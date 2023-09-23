@@ -2,9 +2,9 @@
 # demo
 <p float="left">
 <img src="https://raw.githubusercontent.com/emmabeanween/holiday-animations/main/gifs/winter_recording.gif" 
- width="250" height="500">
+ width="200" height="450">
  &nbsp
  &nbsp
  <img src="https://raw.githubusercontent.com/emmabeanween/holiday-animations/main/gifs/fall_recording.gif" 
- width="250" height="500">
+ width="200" height="450">
 </p>
