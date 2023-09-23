@@ -1,4 +1,8 @@
 # holiday-animations
+
+A collection of animated holiday/seasonal scenes, all done in Swift.
+
+
 # demo
 <p float="left">
 <img src="https://raw.githubusercontent.com/emmabeanween/holiday-animations/main/gifs/winter_recording.gif" 
