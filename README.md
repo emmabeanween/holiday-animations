@@ -1,6 +1,6 @@
 # holiday-animations
 
-A collection of animated holiday/seasonal scenes, all done in Swift.
+A collection of animated holiday/seasonal scenes, all done in Swift.  In creating each scene, many elements were practiced: rotating, scaling, and moving symbols.
 
 
 # demo
