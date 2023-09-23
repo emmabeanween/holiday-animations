@@ -15,4 +15,8 @@ A collection of animated holiday/seasonal scenes, all done in Swift.
  &nbsp
 <img src="https://raw.githubusercontent.com/emmabeanween/holiday-animations/main/gifs/spring_recording.gif" 
  width="210" height="450">
+  &nbsp
+ &nbsp
+<img src="https://raw.githubusercontent.com/emmabeanween/holiday-animations/main/gifs/summer_recording.gif" 
+ width="210" height="450">
 </p>
