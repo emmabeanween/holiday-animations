@@ -37,7 +37,7 @@ struct ContentView: View {
                     
             
                     
-                    
+                    // title text
                     
                     
                     Text("watch the snow!")
